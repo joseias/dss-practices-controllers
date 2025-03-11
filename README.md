@@ -1,4 +1,4 @@
-### # [DSS] Controllers Practice
+# [DSS] Controllers Practice
 
 ## Project initialization
 
